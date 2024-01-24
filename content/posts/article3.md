@@ -1,12 +1,12 @@
 ---
-title: It's a beautiful thing, the destruction of words
+title: Article 3
 date: 2018-10-30
 description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
 image: images/cctv.jpeg
 imageAltAttribute: CCTV Cameras
 tags:
-   - writing 
-   - lorem 
+  - writing
+  - lorem
 ---
 
 # He moved over to the window
@@ -35,7 +35,7 @@ nitet inplevit.
 
 ### Heading 3
 
-Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷.  resistite
+Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷. resistite
 regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
 et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
 quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
