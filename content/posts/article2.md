@@ -1,50 +1,19 @@
 ---
-title: Article 2
-date: 2018-12-29
-description: "Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own"
+title: 7 Lois de l'UX Mal Interprétées par les Concepteurs
+date: 2024-01-25
+description: "Les lois de l'expérience utilisateur (UX) fournissent des directives aux concepteurs, mais elles sont souvent mal comprises."
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 ---
 
-## There was no way of knowing whose version would finally be adopted
+Les lois de l'expérience utilisateur (UX) fournissent des directives aux concepteurs, mais elles sont souvent mal comprises. Voici un résumé de sept lois courantes qui sont parfois interprétées incorrectement :
 
-Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
+1. **Loi de Jakob** : Les utilisateurs préfèrent les sites familiers, mais introduire de la nouveauté peut créer une expérience mémorable.
+2. **Hypothèse du Gradient des Objectifs** : La proximité d'un utilisateur à son objectif ne garantit pas nécessairement la réalisation de celui-ci, surtout en commerce électronique.
+3. **Loi de Miller** : Limiter l'interface à cinq éléments en raison de la mémoire de travail est une mauvaise interprétation, car cela s'applique à des éléments spécifiques comme les carrousels.
+4. **Effet Esthétique-Utilisabilité** : L'esthétique ne garantit pas toujours une utilisation facile, malgré les attentes des utilisateurs.
+5. **Règle du Sommet et de la Fin** : Bien que valable, cette règle est difficile à appliquer aux expériences web ouvertes.
+6. **Loi de Fitts** : L'application sur les écrans mobiles peut être exagérée, car la taille des écrans limite l'impact de la distance.
+7. **Rasoir d'Occam** : Appliquer le rasoir d'Occam nécessite de se concentrer sur les hypothèses de l'utilisateur plutôt que celles du concepteur.
 
-## Mare torrentur
-
-Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus,
-evocet pectus, _nube_. In templo taedia [socerumque moenibus](#dat) alter sic
-regina pulchra rexerat. Corbe est et, **invectae** pariter ignara quod senes:
-sectus his tamen. Hora graves iam prospiciunt, subito spargit germanam _utve_,
-inmeritas frontemque tempora. Frustra stratosque possim trepidare squamis, os,
-tum ipse prodesse acuta Phobetora e viscera, munera!
-
-- Peraravit Themis deserat et stetit taedae quodcumque
-- Grave invitae usque et terraque
-- Spargitque hi dixi
-- Danais oris Ulixes
-
-![Street Art Image](https://source.unsplash.com/GqpbdngfiLo/600x400)
-
-## Siqua transieram in parte
-
-Relicto solusque saepe dato imas [ea](#non-mea) dixit nullum, rumor addit in
-lacertos. Sparsos ceu geminam crimen femineae mater Minervae.
-
-### Utinam fratresque quem
-
-posuitque** nitenti utinam fratresque quem accede **tibi** et semianimes. Agmine
-prohibebant tuas venerit natus per sicut Aoniis dixit sedens scelus, alios.
-Segetes et **ora mala\*\* Iuppiter remotus, non penates quam pro, urbis repulsae
-insolida tantis sacerdos: et.
-
-- Vultum superatus Baccho ferre
-- Massa arreptamque fluet portas
-- Quaesita si medio virtute nunc ipse extremum
-- Gaudet bubo factorum
-
-Dona domus, certe populis, herbas rettulit curvantur Aeneas sequentur inferiora
-rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
-aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
-Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
-habebit.
+En conclusion, ces lois offrent des conseils précieux, mais leur interprétation nécessite une compréhension nuancée pour éviter des erreurs de conception.
