@@ -1,46 +1,23 @@
 ---
 title: "About"
-image: images/writer.jpeg
 ---
 
-## Contra vagos
+## Qu'est-ce que l'UX/UI et pourquoi cela me tient-il tant à cœur ?
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+L'UX (Expérience Utilisateur) et l'UI (Interface Utilisateur) sont des éléments clés dans la conception de sites web. L'UX se concentre sur la satisfaction et le plaisir de l'utilisateur lorsqu'il interagit avec un produit, tandis que l'UI se penche sur l'apparence et la convivialité de l'interface. En d'autres termes, c'est l'art de créer des sites qui sont aussi agréables à utiliser qu'ils sont beaux, mais pas seulement.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+![Ikigai](/ikigai.png)
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+## Contribuer à un Internet plus convivial et sécurisé
 
-## Ducem oculos pallor tale quoque
+Pourquoi l'UX/UI est-il lié à ma volonté d'aider les gens et de rendre Internet plus sécurisé ? Eh bien, l'expérience utilisateur va au-delà de la simple esthétique. Un site bien conçu est intuitif, facilite la navigation et offre une expérience sans friction. Cela signifie moins de frustration pour les utilisateurs, mais aussi moins de risques d'erreurs et d'incompréhensions.
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+De plus, la sécurité est au cœur de mes préoccupations. L'UX/UI ne se limite pas à l'aspect visuel, mais englobe également la conception de processus transparents et sécurisés. En créant des interfaces qui guident les utilisateurs de manière claire et sécurisée, je contribue à forger un Internet plus fiable.
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+Prenons l'exemple des enfants : ils sont de plus en plus confrontés à Internet et ses interfaces et cela n'est pas sans danger pour eux. En tant que travailleur du web, il est mon devoir d'assurer leur sécurité et que l'accès à des contenus sensibles ainsi que les actions "risquées" telles que l'envoi de photos ou d'argent soient limitées. C'est pourquoi je m'engage à créer des interfaces qui protègent les utilisateurs, en particulier les enfants, et à contribuer à un Internet plus convivial et sécurisé.
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
+## Pourquoi j'ai choisi Hugo
 
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+Mon choix de développer mon site avec le SSG (Générateur de sites statiques) Hugo plutôt qu'un autre outil repose sur plusieurs considérations cruciales.
+
+Tout d'abord, Hugo se distingue par sa rapidité exceptionnelle. En générant des pages statiques, il permet un chargement ultra-rapide, ce qui améliore considérablement l'expérience utilisateur en offrant des temps de chargement minimes. De plus, la simplicité de la structure de Hugo facilite grandement le processus de développement et de déploiement. Enfin, la communauté Hugo offre un soutien continu et un grand nombre de ressources facilement et rapidement accessibles sur internet. Ainsi, le choix de Hugo s'inscrit dans une approche axée sur la performance, la simplicité et le support communautaire disponible en ligne pour offrir une expérience web optimale.
