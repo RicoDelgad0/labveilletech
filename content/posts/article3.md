@@ -1,77 +1,44 @@
 ---
-title: Article 3
+title: Qu'est ce que le Design Thinking ?
 date: 2018-10-30
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. "
-image: images/cctv.jpeg
-imageAltAttribute: CCTV Cameras
-tags:
-  - writing
-  - lorem
+description: "Le Design Thinking est une approche centrée sur l'humain pour résoudre des problèmes complexes. Découvrez comment il peut être appliqué à divers domaines."
 ---
 
-# He moved over to the window
+Dans un monde régi par l'action rapide, la quête de résultats de qualité est universelle. Comment améliorer les choses, que ce soit un produit, un service ou un processus ? Le Design Thinking, en adoptant une approche centrée sur l'humain, offre des solutions créatives aux problèmes complexes, équilibrant faisabilité technique, viabilité et désirabilité.
 
-Lorem markdownum comes; pro est [modo famulus](#pervenerat), quo quod neu
-manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos,
-quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet
-prole eveniet **superi** rus proles venenis potestas Tereo pluribus sunto.
+## Signification du Design Thinking :
 
-Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque
-funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus
-venturas et Achilli, nat iam cum deque.
+Le Design Thinking se définit comme une philosophie ou une mentalité pour résoudre des problèmes complexes de manière créative, allant au-delà des pratiques conventionnelles. Il privilégie des solutions qui sont faisables, viables et désirables, équilibrant ainsi les besoins rationnels, émotionnels et fonctionnels des utilisateurs.
 
-## Heading 2
+## Origine :
 
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
+Bien que l'origine exacte du Design Thinking soit incertaine, on peut le remonter aux travaux de John E. Arnold, professeur en génie mécanique à l'Université Stanford. Pionnier de l'étude de "l'Ingénierie Créative", Arnold a encouragé l'approche artistique de la résolution de problèmes, mettant l'accent sur les besoins humains.
 
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
+## Le Processus de Design Thinking :
 
-### Heading 3
+Le processus de Design Thinking, bien que non linéaire, suit généralement un cycle d'empathie, définition, idéation, prototypage et test.
 
-Oriente nec radios nurus, quod undas, occupat conpescit femina est 🥷. resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
+**Empathie :** Comprendre les besoins humains, en se penchant sur les réalités du problème et en recueillant des informations auprès des parties concernées.
 
-#### Heading 4
+**Définition :** Formuler clairement le problème, évitant les énoncés mal conçus qui conduisent à des solutions inappropriées.
 
-Enim acclinia opera; _ea gemit_. Cervice sine tibi forma; non inde rubescere
-usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at **eadem**,
-quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
-venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
+**Idéation :** Synthétiser les observations pour créer des opportunités de changement, générant plusieurs idées concurrentes pour résoudre le problème.
 
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
+**Prototypage :** Créer une représentation tangible de la solution envisagée, permettant d'évaluer sa faisabilité et d'identifier des aspects non pris en compte pendant l'idéation.
 
-## Heading 2
+**Test :** Soumettre le prototype au groupe cible, réitérant le processus en fonction des retours obtenus.
 
-<strong>Example of using raw HTML</strong> to insert a <a href="https://www.zerostatic.io" target="_blank">link</a>
-Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
-ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
-ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
-a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
+## Études de Cas du Design Thinking :
 
-> At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
-> Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
+**Secteur Social :**
+Le Design Thinking a été appliqué avec succès pour résoudre des problèmes sociaux complexes, comme la lutte contre le paludisme en Afrique. La conception de moustiquaires plus attrayantes a conduit à une diminution significative des décès.
 
-Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+**Airbnb :**
+Face à des difficultés commerciales, Airbnb a utilisé le Design Thinking pour comprendre le problème des annonces peu attrayantes. La location d'un appareil photo pour des photos de meilleure qualité a transformé l'expérience des clients.
+
+**Netflix :**
+Netflix, passant de la location de DVD à la diffusion en continu, a utilisé le Design Thinking pour s'adapter aux besoins changeants de ses utilisateurs. Des fonctionnalités telles que les "prévisualisations" ont été introduites pour faciliter le choix du contenu.
+
+## Conclusion :
+
+Le Design Thinking, en constante évolution, offre une approche flexible et efficace pour aborder divers problèmes. En jouant avec l'ambiguïté, cette approche permet de concevoir des solutions centrées sur l'humain. Expérimentez-le sur un problème de votre choix et partagez votre expérience dans les commentaires.

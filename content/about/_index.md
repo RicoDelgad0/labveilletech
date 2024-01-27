@@ -6,9 +6,11 @@ title: "About"
 
 L'UX (Expérience Utilisateur) et l'UI (Interface Utilisateur) sont des éléments clés dans la conception de sites web. L'UX se concentre sur la satisfaction et le plaisir de l'utilisateur lorsqu'il interagit avec un produit, tandis que l'UI se penche sur l'apparence et la convivialité de l'interface. En d'autres termes, c'est l'art de créer des sites qui sont aussi agréables à utiliser qu'ils sont beaux, mais pas seulement.
 
-![Ikigai](/ikigai.png)
-
 ## Contribuer à un Internet plus convivial et sécurisé
+
+L'Ikigai, provenant du japonais "iki" (vie) et "gai" (réalisation), est un concept qui représente le sens et la joie que l'on trouve dans la vie quotidienne. C'est l'intersection harmonieuse entre quatre éléments fondamentaux : ce que l'on aime, ce pour quoi l'on est doué, ce dont le monde a besoin et ce pour quoi on peut être rémunéré.
+
+Après avoir réfléchi longuement à la question, mon Ikigai se résume à ceci : aider les gens à travers mon travail et contribuer à un Internet plus convivial et sécurisé. C'est pourquoi j'ai décidé de me lancer dans le design d'interfaces. En effet, l'UX/UI est un domaine qui me permet de combiner mes compétences en design et en développement avec ma passion pour l'expérience utilisateur et la sécurité.
 
 Pourquoi l'UX/UI est-il lié à ma volonté d'aider les gens et de rendre Internet plus sécurisé ? Eh bien, l'expérience utilisateur va au-delà de la simple esthétique. Un site bien conçu est intuitif, facilite la navigation et offre une expérience sans friction. Cela signifie moins de frustration pour les utilisateurs, mais aussi moins de risques d'erreurs et d'incompréhensions.
 
