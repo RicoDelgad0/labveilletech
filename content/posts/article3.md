@@ -1,6 +1,6 @@
 ---
 title: Qu'est ce que le Design Thinking ?
-date: 2018-10-30
+date: 2024-01-26
 description: "Le Design Thinking est une approche centrée sur l'humain pour résoudre des problèmes complexes. Découvrez comment il peut être appliqué à divers domaines."
 ---
 
